@@ -1,13 +1,13 @@
 <h1 align="center">Hi , I'm Mohamed Hussein <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer+@HadafICT;Computer+Science+Student+@JUST;Competitive+Programmer+@IEEE+Region8;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=FullStack+Developer;Computer+Science+Student+@JUST;;Always+learning+new+things"></a>
 </p>
 
 
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=ENG-CJ&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=ENG-Amiin&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 </p>
 
 	
@@ -23,17 +23,12 @@
 
 
 
-<p align="center">
-  <a href="#"><img src="https://ess.ieee.org.ua/wp-content/uploads/2016/05/ieee_img.jpg__1320x740_q95_crop_subsampling-2_upscale-1024x574.jpg"
-		      width='100px' height='100px' alt="Code Forces"/></a>
-	
-</p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="mailto:abdulrahmandev10@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/ENG-CJ"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.link/sx05el"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="mailto:amiinxuseen621@gmail.com@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/EngAmiin"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://api.whatsapp.com/send?phone=252619019805"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 </p>
 
 
@@ -60,9 +55,7 @@
     <img alt="Python" src="https://img.shields.io/badge/php%20-%2314354C.svg?style=plastic&logo=php&logoColor=white">
   </a>
  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/dart%20-%2314354C.svg?style=plastic&logo=dart&logoColor=white">
-  </a>
+   
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
@@ -84,9 +77,7 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/angular%20-%23F7DF1E.svg?style=plastic&logo=angular&logoColor=black">
-   </a>
+
  &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/bootstrap%20-%23F7DF1E.svg?style=plastic&logo=bootstrap&logoColor=black">
@@ -112,32 +103,26 @@
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
+
+  
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/flask-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
- &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/postgresql-%234479A1.svg?&style=plastic&logo=postgresql&logoColor=white"/></a>
-&emsp;
+
     <a href="#"><img src="https://img.shields.io/badge/microsoftsqlserver-%234479A1.svg?&style=plastic&logo=microsoftsqlserver&logoColor=white"/></a>
 	&emsp;
     <a href="#"><img src="https://img.shields.io/badge/postman-%234479A1.svg?&style=plastic&logo=postman&logoColor=white"/></a>
-	&emsp;
-    <a href="#"><img src="https://img.shields.io/badge/framer-%234479A1.svg?&style=plastic&logo=framer&logoColor=white"/></a>
+
+    
 &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/codeigniter-%234479A1.svg?&style=plastic&logo=codeigniter&logoColor=white"/></a>
+   
 &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/heroku-%234479A1.svg?&style=plastic&logo=heroku&logoColor=white"/></a>
-&emsp;
-    <a href="#"><img src="https://img.shields.io/badge/render-%234479A1.svg?&style=plastic&logo=render&logoColor=white"/></a>
+
 &emsp;
     <a href="#"><img src="https://img.shields.io/badge/express-%234479A1.svg?&style=plastic&logo=express&logoColor=white"/></a>
 &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/githubsponsors-%234479A1.svg?&style=plastic&logo=githubsponsors&logoColor=white"/></a>
+   
 &emsp;
     <a href="#"><img src="https://img.shields.io/badge/vite-%234479A1.svg?&style=plastic&logo=vite&logoColor=white"/></a>
 </p>
@@ -150,14 +135,14 @@
   &emsp;
     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
+    
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+   
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
@@ -166,9 +151,7 @@
 
 ---
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
+
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
