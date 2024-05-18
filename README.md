@@ -105,14 +105,7 @@
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
 
   
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/flask-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 
-    <a href="#"><img src="https://img.shields.io/badge/microsoftsqlserver-%234479A1.svg?&style=plastic&logo=microsoftsqlserver&logoColor=white"/></a>
-	&emsp;
-    <a href="#"><img src="https://img.shields.io/badge/postman-%234479A1.svg?&style=plastic&logo=postman&logoColor=white"/></a>
 
     
 &emsp;
